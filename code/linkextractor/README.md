@@ -1,4 +1,4 @@
-# Link Extractor
+# wikicrawler
 
 Link Extractor app scrapes links from a given web page.
 This repository illustrates step by step approach to learn [Docker](https://www.docker.com/).
